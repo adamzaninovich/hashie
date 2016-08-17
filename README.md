@@ -10,6 +10,10 @@
 
 Hashie is a growing collection of tools that extend Hashes and make them more useful.
 
+### With Hashie, your hashes will be unstoppable!
+
+![](http://i.imgur.com/MPn58CC.jpg)
+
 ## Installation
 
 Hashie is available as a RubyGem:
